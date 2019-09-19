@@ -12,7 +12,9 @@ A high-productivity web framework for the [Go language](http://www.golang.org/).
     "It works"
 
 ## Code Layout
-
+func main() {
+    fmt.println()
+}
 The directory structure of a generated Revel application:
 
     conf/             Configuration directory
